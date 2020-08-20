@@ -25,7 +25,7 @@
   "dependencies": {
     "@types/knex": "^0.15.2",
     "axios": "^0.18.0",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "bookshelf": "^0.15.1",
     "bookshelf-virtuals-plugin": "^0.1.1",
     "core-js": "^3.6.4",
